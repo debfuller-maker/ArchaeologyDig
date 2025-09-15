@@ -3,7 +3,7 @@
 <head>
   <title>Dig & Discover</title>
   <style>
-    body { font-family: sans-serif; margin: 20px; background: url('https://github.com/debfuller-maker/ArchaeologyDig/blob/main/sample-site-map.png?raw=trueg') no-repeat center center fixed;}
+    body { font-family: sans-serif; margin: 20px; background: url('https://github.com/debfuller-maker/ArchaeologyDig/blob/main/sample-site-map.png') no-repeat center center fixed;}
     .grid { display: grid; grid-template-columns: repeat(5, 60px); gap: 5px; margin-bottom: 20px; background-color: rgba(255,255,255,0.8); padding: 10px; border-radius: 8px; }
     .cell { width: 60px; height: 60px; background: #eee; border: 1px solid #ccc; text-align: center; line-height: 60px; cursor: pointer; font-weight: bold; }
     .journal, .dashboard, .inquiry { border: 1px solid #ccc; padding: 10px; background: #f9f9f9; margin-bottom: 20px; }
